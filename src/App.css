@@ -1,3 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&family=Trispace:wght@300;500;600&display=swap");
+
+:root {
+  --light: #fffaeb;
+  --dark: #272b27;
+  --main: #fecf71;
+  --accent: #886d86;
+  --display-font: "Space Grotesk", sans-serif;
+  --secondary-font: "Trispace", sans-serif;
+}
+
 .App {
   text-align: center;
 }

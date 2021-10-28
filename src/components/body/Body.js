@@ -1,11 +1,11 @@
 import React from "react";
 
-function Footer() {
+function Body() {
   return (
     <div>
-      <p>footer</p>
+      <p>im z body</p>
     </div>
   );
 }
 
-export default Footer;
+export default Body;
