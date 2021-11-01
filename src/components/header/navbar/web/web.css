@@ -1,0 +1,12 @@
+.weblinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.navlink {
+  color: black;
+  margin-top: 45px;
+  margin-right: 55px;
+}
